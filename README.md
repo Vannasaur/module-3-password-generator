@@ -40,7 +40,7 @@ To use the Password Generator, click on the Generate Password button.
 
  Once you have entered a number between 8-128, you will be asked additional questions regarding the types of characters you would like to include in your password. If you select at least one of the character options, your password will be generated and displayed in the Secure Password textbox. 
 
- Link to deployed application: https://vannasaur.github.io/module-3-password-generator/
+ Link to deployed application: https://vannasaur.github.io/password-generator/
 
 ## Credits
 
